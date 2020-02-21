@@ -1,0 +1,3 @@
+VGG 16 model : https://github.com/machrisaa/tensorflow-vgg
+TF Keras : https://github.com/tensorflow/tensorflow/blob/v1.1.0/tensorflow/contrib/keras/python/keras/applications/vgg16.py
+Existing HED : https://github.com/ppwwyyxx/tensorpack/blob/master/examples/HED/hed.py
