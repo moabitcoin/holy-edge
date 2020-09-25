@@ -83,7 +83,7 @@ SQLAlchemy==0.9.7
 statsd==3.0.1
 subprocess32==3.2.7
 tensorflow==1.1.0
-tensorflow-gpu==1.1.0
+tensorflow-gpu==1.15.4
 termcolor==1.0.0
 terminado==0.6
 testpath==0.3.1
