@@ -62,7 +62,7 @@ prettytable==0.7.2
 prompt-toolkit==1.0.14
 protobuf==3.3.0
 ptyprocess==0.5.1
-Pygments==2.2.0
+Pygments==2.7.4
 Pympler==0.5
 pyparsing==2.2.0
 python-dateutil==2.6.0
