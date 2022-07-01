@@ -39,7 +39,7 @@ lmdb==0.92
 Mako==1.0.6
 MarkupSafe==1.0
 matplotlib==2.0.2
-mistune==0.7.4
+mistune==0.8.1
 mock==2.0.0
 mxnet-cu80==0.10.0
 MySQL-python==1.2.5
