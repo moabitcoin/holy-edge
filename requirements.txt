@@ -36,7 +36,7 @@ jupyter-console==5.1.0
 jupyter-core==4.3.0
 Keras==2.0.0
 lmdb==0.92
-Mako==1.0.6
+Mako==1.2.2
 MarkupSafe==1.0
 matplotlib==2.0.2
 mistune==0.7.4
