@@ -92,6 +92,6 @@ tornado==4.5.1
 traitlets==4.3.2
 wcwidth==0.1.7
 webencodings==0.5.1
-Werkzeug==0.12.2
+Werkzeug==0.15.5
 wget==3.2
 widgetsnbextension==2.0.0
