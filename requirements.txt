@@ -25,7 +25,7 @@ h5py==2.6.0
 html5lib==0.999999999
 inspect-it==0.3.2
 ipykernel==4.6.1
-ipython==7.16.3
+ipython==8.10.0
 ipython-genutils==0.2.0
 ipywidgets==6.0.0
 Jinja2==2.11.3
